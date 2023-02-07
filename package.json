@@ -1,7 +1,7 @@
 {
-  "name": "Here!",
+  "name": "jovanstojanovicexam",
   "version": "1.0.0",
-  "description": "",
+  "browserslist": "> 0.25%, not dead",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
@@ -9,6 +9,16 @@
   "author": "Simon Pinkas",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.8.2"
-  }
+    "parcel": "^2.8.3"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JovanStoj/Stojanovic_Jovan_m502_progweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JovanStoj/Stojanovic_Jovan_m502_progweb/issues"
+  },
+  "homepage": "https://github.com/JovanStoj/Stojanovic_Jovan_m502_progweb#readme",
+  "description": ""
 }
